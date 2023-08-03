@@ -1,0 +1,974 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]>    <html class="no-js gt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+  
+  <!-- Meta Tags -->
+  	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=1">
+
+<!--[if lt IE 9]>
+	<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.12 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Fitbit Blog - Fitbit Blog</title>
+	<link rel="canonical" href="https://blog.fitbit.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Fitbit Blog - Fitbit Blog" />
+	<meta property="og:url" content="https://blog.fitbit.com/" />
+	<meta property="og:site_name" content="Fitbit Blog" />
+	<meta property="article:publisher" content="https://facebook.com/fitbit" />
+	<meta property="article:modified_time" content="2016-01-07T16:05:03+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@fitbit" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://blog.fitbit.com/","url":"https://blog.fitbit.com/","name":"Fitbit Blog - Fitbit Blog","isPartOf":{"@id":"https://blog.fitbit.com/#website"},"about":{"@id":"https://blog.fitbit.com/#organization"},"datePublished":"2015-08-17T17:08:46+00:00","dateModified":"2016-01-07T16:05:03+00:00","breadcrumb":{"@id":"https://blog.fitbit.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://blog.fitbit.com/"]}]},{"@type":"BreadcrumbList","@id":"https://blog.fitbit.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://blog.fitbit.com/#website","url":"https://blog.fitbit.com/","name":"Fitbit Blog","description":"Follow the Fitbit blog for individual success stories, expert fitness tips, health and nutrition advice, product announcements, motivation and more.","publisher":{"@id":"https://blog.fitbit.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://blog.fitbit.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://blog.fitbit.com/#organization","name":"Fitbit","url":"https://blog.fitbit.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://blog.fitbit.com/#/schema/logo/image/","url":"https://blog.fitbit.com/wp-content/uploads/2017/02/Fitbit_LogoLarge.png","contentUrl":"https://blog.fitbit.com/wp-content/uploads/2017/02/Fitbit_LogoLarge.png","width":1020,"height":284,"caption":"Fitbit"},"image":{"@id":"https://blog.fitbit.com/#/schema/logo/image/"},"sameAs":["https://facebook.com/fitbit","https://twitter.com/fitbit","https://instagram.com/fitbit","https://www.linkedin.com/company/fitbit","https://pinterest.com/fitbit","https://www.youtube.com/fitbit"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Fitbit Blog &raquo; Feed" href="https://blog.fitbit.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fitbit Blog &raquo; Comments Feed" href="https://blog.fitbit.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fitbit Blog &raquo; Fitbit Blog Comments Feed" href="https://blog.fitbit.com/homepage/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blog.fitbit.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://blog.fitbit.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://blog.fitbit.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='thr_style-css' href='https://blog.fitbit.com/wp-content/themes/throne/style.css?ver=1.4.1' type='text/css' media='screen' />
+<style id='thr_style-inline-css' type='text/css'>
+body,.button_respond,.thr_author_link {font-family: Arial, Helvetica, sans-serif;font-weight: 400;}h1,h2,h3,h4,h5,h6,.featured_posts_link,.mks_author_widget h3{font-family: Arial, Helvetica, sans-serif;font-weight: 400;}#nav li a,.site-title,.site-title a,.site-desc,.sidr ul li a{font-family: Arial, Helvetica, sans-serif;font-weight: 400;}body,.overlay_bg_div{background-color: rgba(255,255,255,0.20);}.arch_line,.page-progress span{background: #ee3d6e;}.thr_boxed_wrapper,.is_bxd.meta-share{background-color: #ffffff;}.thr_boxed{margin-top: 0px;}::-webkit-input-placeholder { color:#ffffff;}:-moz-placeholder { color: #ffffff;}::-moz-placeholder { color:#ffffff;}:-ms-input-placeholder { color:#ffffff;}.site-title a,#nav li a,.header-main,.search_header_form input[type="text"], .search_header_form input[type="text"]:focus,.menu-item-has-children:after,.sidr ul li span,.sidr ul li a {color: #ffffff;}#nav > ul > li:hover > a, #nav a:hover,#nav li.current-menu-item > a,#nav li.current_page_item > a,#nav li.current-menu-item.menu-item-has-children:after,#nav li.current_page_item.menu-item-has-children:after,.sidr ul li:hover > a, .sidr ul li:hover > span,#sidr-existing-content li.sidr-class-current_page_item > a,#sidr-existing-content li.sidr-class-current_page_item > .thr_menu_parent,#sidr-existing-content li.sidr-class-current-menu-item > a,#sidr-existing-content li.sidr-class-current-menu-item > .thr_menu_parent{color: #ffffff;}.sidr ul li:hover > a, .sidr ul li.active > a, .sidr ul li.sidr-class-active > a,.sidr ul li ul li:hover > a, .sidr ul li ul li.active > a, .sidr ul li ul li.sidr-class-active > a {-webkit-box-shadow: inset 2px 0 0 0px #ffffff;-moz-box-shadow: inset 2px 0 0 0px #ffffff;box-shadow: inset 2px 0 0 0px #ffffff;}.menu-item-has-children:after{border-top-color: #ffffff;}li.menu-item-has-children:hover:after{color: #ffffff;}.header-main {height: 60px;background-color: #49c1bf;background-color: rgba(73,193,191,1.00);background-repeat:repeat;}.sidr{background-color: #49c1bf;}#sticky_header{background-color: #49c1bf;background:rgba(73,193,191,0.9);}.header-main .search_header_form{background-color: transparent;}.header-main .search_header_form input[type="text"]{top:6px;;}#nav li a{padding: 19px 3px 20px;}.header-bottom,#nav .sub-menu{background-color: #49c1bf;}.header_ads_space{margin: -15px 0;}.logo_wrapper{top: 12px;left: 0px;}.menu-item-has-children:after{margin: 24px 0 0 2px;}.main_content_wrapper{background-color: #ffffff;}.thr_content_wrapped .meta-share{background-color: #ffffff;}.main_content_wrapper .single .entry-title, .page-template-default .entry-title,.main_content_wrapper .entry-title a,.main_content_wrapper h1,.main_content_wrapper h2,.main_content_wrapper h3,.main_content_wrapper h4, .main_content_wrapper h5,.main_content_wrapper h6,#subheader_box h1,#subheader_box h2,#subheader_box h3,#subheader_box h4,#subheader_box h5,#subheader_box h6{color: #333333;}.main_content_wrapper,#subheader_box p{color: #333333;}.meta-item,.meta-item a,.comment-metadata time,.comment-list .reply a,.main_content_wrapper .button_respond,li.cat-item,.widget_archive li,.widget_recent_entries ul span{color: #333333;}.meta-item i,.entry-title a:hover,a,.comment-metadata time:before,.button_respond:hover,.button_respond i,.comment-list .reply a:before,.comment-list .reply a:hover,.meta-item a:hover,.error404 h1,.thr_content_wrapped .meta-share.meta-itemi{color: #ee3d6e;}.error404 .entry-content .nav-menu li a{background: #ee3d6e;}.underlined_heading span{border-bottom-color: #ee3d6e;}blockquote{border-color: #ee3d6e;}.comment-reply-title:after,#submit,.meta-item .read_more_button, .thr_button, input[type="submit"],.current, .page-numbers:hover, #pagination .post_previous a:hover, #pagination .post_next a:hover, .load_more_posts a:hover,.f_read_more,.wp-caption .wp-caption-text,.entry-content .mejs-container .mejs-controls, .entry-content .mejs-embed, .entry-content .mejs-embed body,.comment-list li.bypostauthor > .comment-body:after,.comment-list li.comment-author-admin > .comment-body:after{background: #ee3d6e;}.entry-content .mejs-controls .mejs-time-rail .mejs-time-total,.entry-content .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.entry-content .mejs-controls .mejs-time-rail .mejs-time-loaded{background: rgba(255,255,255,0.20);}.entry-content .mejs-controls .mejs-time-rail .mejs-time-current,.entry-content .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {background: rgba(238,61,110,0.5);}.current, .page-numbers:hover, #pagination .post_previous a:hover, #pagination .post_next a:hover, .load_more_posts a:hover{box-shadow: inset 0 0 0 1px #ee3d6e;}.thr_sidebar_wrapped #sidebar,.thr_widget_wrapped #sidebar .widget,.thr_sidebar_wrapped .affix,.thr_sidebar_wrapped .affix-bottom{background: #ffffff;}#sidebar .widget-title,#sidebar h1,#sidebar h2,#sidebar h3,#sidebar h4,#sidebar h5,#sidebar h6{color: #333333;}#sidebar .widget-title span{border-bottom-color: #e23a3e;}.widget_tag_cloud a,#sidebar .widget a,li.recentcomments:before,#sidebar .thr_posts_widget.widget .entry-meta a:hover {color: #e23a3e;}#sidebar{color: #444444;}.footer_wrapper{background-color: #333333}.footer_wrapper p,.footer_wrapper,.footer_wrapper .widget{color: #d8d8d8;}.footer_wrapper a{color: #e23a3e;}.footer_wrapper h1,.footer_wrapper h2,.footer_wrapper h3,.footer_wrapper h4,.footer_wrapper h5,.footer_wrapper h6,.footer_wrapper .widget-title{color: #ffffff;}.archive-title,.category-heading-title,#archive_title p,.archive-title h1{color: #333333;}.layout_a .soc_sharing ul{ display: block; }.layout_a .soc_sharing .thr_share_button {border-color: rgba(0,0,0,0.1);}.layout_a .soc_sharing{margin-top:2px;}
+</style>
+<link rel='stylesheet' id='thr_font_awesome-css' href='https://blog.fitbit.com/wp-content/themes/throne/css/font-awesome.min.css?ver=1.4.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='thr_icons-css' href='https://blog.fitbit.com/wp-content/themes/throne/css/simple-line-icons.css?ver=1.4.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='thr_responsive-css' href='https://blog.fitbit.com/wp-content/themes/throne/css/responsive.css?ver=1.4.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='thr_child_style-css' href='https://blog.fitbit.com/wp-content/themes/fitbit-new/style-child.css?ver=2023-08-03%2005:23:16' type='text/css' media='screen' />
+<script type='text/javascript' src='https://blog.fitbit.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://blog.fitbit.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://blog.fitbit.com/wp-content/plugins/wp-hide-post/public/js/wp-hide-post-public.js?ver=2.0.10' id='wp-hide-post-js'></script>
+<script type='text/javascript' src='https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/js/custom-fitbit.js?ver=1' id='child_theme_script_handle-js'></script>
+<link rel="https://api.w.org/" href="https://blog.fitbit.com/wp-json/" /><link rel="alternate" type="application/json" href="https://blog.fitbit.com/wp-json/wp/v2/pages/5170" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.fitbit.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.fitbit.com/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://blog.fitbit.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://blog.fitbit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.fitbit.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://blog.fitbit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.fitbit.com%2F&#038;format=xml" />
+<link rel="shortcut icon" href="https://blog.fitbit.com/wp-content/uploads/2015/08/favicon.ico" type="image/x-icon" />		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/		</style>
+		<meta name="description" content="Follow the Fitbit blog for individual success stories, expert fitness tips, health and nutrition advice, product announcements, motivation and more.">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//favicon-16x16.png">
+<link rel="manifest" href="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://blog.fitbit.com/wp-content/themes/fitbit-new/assets/img/icons/favicon//ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="google-site-verification" content="ZPbYSE7GANSb1L4T3QdKncRqPhKLrzqiCa6qwnwRSPY" />
+	
+</head>
+
+
+<body class="home page-template page-template-template-home page-template-template-home-php page page-id-5170 thr_body_sidebar_right  chrome thr_content_wrapped thr_widget_wrapped">
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5MRTHHT');</script>
+<!-- End Google Tag Manager -->
+
+<header class="wrapper-header">
+	<div class="wrapper-header-inner">
+		<a class="logo" href="https://www.fitbit.com/global/zz/home">
+			<span class="brand-cont"></span>
+		</a>
+
+		<div class="hdr-menu fa dec-2016">
+			<ul class="hdr-menu-links">
+				<li class="hdr-products">
+					<a class="hdr-menu-item" href="https://www.fitbit.com/global/zz/products">Products</a>
+				</li>
+			</ul>
+
+			<ul class="hdr-menu-actions logged-out">
+
+				<li class="hdr-menu-item hdr-store">
+					<a href="https://www.fitbit.com/global/zz/products">Store</a>
+				</li>
+
+				<li class="hdr-login">
+					<a class="hdr-menu-item" href="https://www.fitbit.com/login">Log in</a>
+				</li>
+
+				<li class="hdr-setup">
+					<a class="hdr-menu-item" href="https://www.fitbit.com/global/zz/setup">Setup</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</header>
+
+
+
+
+
+
+<header id="header" class="header full_width clearfix">
+    <div class="header-main">
+				<div class="content_wrapper">		
+						<nav class="mobile-nav">
+	<ul>
+		<li>
+			<a class="" id="nav-open-btn" href="#">
+				View Categories
+			</a>
+		</li>
+	</ul>
+</nav>
+<nav id="nav" class="main_navigation">
+	<ul id="thr_main_navigation_menu" class="nav-menu"><li id="menu-item-8621" class="home-link menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-8621"><a href="https://blog.fitbit.com" aria-current="page"><span>Home</span></a></li>
+<li id="menu-item-6062" class="icomoon icon-fb-blog-run menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6062"><a href="https://blog.fitbit.com/category/activity/">Activity</a>
+<ul class="sub-menu">
+	<li id="menu-item-6065" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6065"><a href="https://blog.fitbit.com/category/activity/daily-activity/">Daily Activity</a></li>
+	<li id="menu-item-6063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6063"><a href="https://blog.fitbit.com/category/activity/cardio/">Cardio</a></li>
+	<li id="menu-item-6068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6068"><a href="https://blog.fitbit.com/category/activity/strength-training/">Strength Training</a></li>
+	<li id="menu-item-6069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6069"><a href="https://blog.fitbit.com/category/activity/walking/">Walking</a></li>
+	<li id="menu-item-6067" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6067"><a href="https://blog.fitbit.com/category/activity/running/">Running</a></li>
+	<li id="menu-item-6070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6070"><a href="https://blog.fitbit.com/category/activity/yoga/">Yoga</a></li>
+</ul>
+</li>
+<li id="menu-item-6071" class="icomoon icon-fb-blog-knife-fork menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6071"><a href="https://blog.fitbit.com/category/nutrition/">Nutrition</a>
+<ul class="sub-menu">
+	<li id="menu-item-6073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6073"><a href="https://blog.fitbit.com/category/nutrition/recipes/">Recipes</a></li>
+	<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6072"><a href="https://blog.fitbit.com/category/nutrition/healthy-eating-strategies/">Healthy Eating Strategies</a></li>
+	<li id="menu-item-6075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6075"><a href="https://blog.fitbit.com/category/nutrition/snacking-tips/">Snacking Tips</a></li>
+	<li id="menu-item-6083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6083"><a href="https://blog.fitbit.com/category/nutrition/smart-shopping/">Smart Shopping</a></li>
+</ul>
+</li>
+<li id="menu-item-6077" class="icomoon icon-fb-blog-smile menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6077"><a href="https://blog.fitbit.com/category/stress/">Stress</a>
+<ul class="sub-menu">
+	<li id="menu-item-6080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6080"><a href="https://blog.fitbit.com/category/stress/mindfulness/">Mindfulness</a></li>
+	<li id="menu-item-6059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6059"><a href="https://blog.fitbit.com/category/stress/motivation/">Motivation</a></li>
+</ul>
+</li>
+<li id="menu-item-6056" class="icomoon icon-fb-blog-lightbulb menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6056"><a href="https://blog.fitbit.com/category/sleep/">Sleep</a>
+<ul class="sub-menu">
+	<li id="menu-item-6081" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6081"><a href="https://blog.fitbit.com/category/sleep/sleep-tips/">Sleep Tips</a></li>
+	<li id="menu-item-19873" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19873"><a href="https://blog.fitbit.com/category/sleep/fitbit-sleep-tools/">Fitbit&#8217;s Sleep Tools</a></li>
+</ul>
+</li>
+<li id="menu-item-6085" class="icomoon icon-fb-blog-paper menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6085"><a href="https://blog.fitbit.com/category/fitbit-news/">Fitbit News</a>
+<ul class="sub-menu">
+	<li id="menu-item-6090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6090"><a href="https://blog.fitbit.com/category/fitbit-news/product-announcements/">Product News &amp; Updates</a></li>
+	<li id="menu-item-6089" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6089"><a href="https://blog.fitbit.com/category/fitbit-news/data-stories/">Data Stories</a></li>
+	<li id="menu-item-19874" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19874"><a href="https://blog.fitbit.com/category/fitbit-news/success-stories/">Success Stories</a></li>
+</ul>
+</li>
+</ul></nav>		</div>
+
+	</div>
+	</header>
+
+<main id="main_content" class="clearfix">
+
+
+
+ 
+ 
+<section id="featured_wrapper" class="featured_wrapper full_width">
+
+	<div class="content_wrapper">
+   
+      
+   		<div class="featured_3">
+	 	 
+	 				
+				
+				<div class="featured_element">
+
+					<div class="featured_item">
+						<a href="https://blog.fitbit.com/naturally-calming-foods/" title="">
+							<img width="356" height="267" src="https://blog.fitbit.com/wp-content/uploads/2020/10/calming-foods_blog_730x485-356x267.jpg" class="attachment-thr-fa-third size-thr-fa-third wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+					</div>
+					<div class="featured-item-headline">
+						<h2>
+							<a href="https://blog.fitbit.com/naturally-calming-foods/" title="">Naturally Calming Foods to Add to Your Day							</a>
+						</h2>
+					</div><!--/.featured-item-headline-->
+
+
+					
+                <!--											<a href="https://blog.fitbit.com/naturally-calming-foods/" class="f_overlay"></a>
+										<div class="featured_title_over">
+						
+												<h2><a href="https://blog.fitbit.com/naturally-calming-foods/" title="">Naturally Calming Foods to Add to Your Day</a></h2>
+												<div class="featured_excerpt">
+							<p>Channel your inner calm from the inside out by adding these naturally calming foods to your plate.</p>
+															<a href="https://blog.fitbit.com/naturally-calming-foods/" class="f_read_more">
+									Read More <i class="fa fa-chevron-circle-right"></i>
+								</a>
+													</div>
+											</div>
+					<div class="f_title_bg"></div>-->
+
+				</div><!--/.featired_element-->
+		
+				
+		   
+   	 
+	 				
+				
+				<div class="featured_element">
+
+					<div class="featured_item">
+						<a href="https://blog.fitbit.com/diy-home-remedies/" title="">
+							<img width="356" height="267" src="https://blog.fitbit.com/wp-content/uploads/2020/11/DIY-remedies-356x267.jpg" class="attachment-thr-fa-third size-thr-fa-third wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+					</div>
+					<div class="featured-item-headline">
+						<h2>
+							<a href="https://blog.fitbit.com/diy-home-remedies/" title="">3 DIY Home Remedies to Supercharge Your Immune System							</a>
+						</h2>
+					</div><!--/.featured-item-headline-->
+
+
+					
+                <!--											<a href="https://blog.fitbit.com/diy-home-remedies/" class="f_overlay"></a>
+										<div class="featured_title_over">
+						
+												<h2><a href="https://blog.fitbit.com/diy-home-remedies/" title="">3 DIY Home Remedies to Supercharge Your Immune System</a></h2>
+												<div class="featured_excerpt">
+							<p>The secret to hearty resistance could be as close as your kitchen.</p>
+															<a href="https://blog.fitbit.com/diy-home-remedies/" class="f_read_more">
+									Read More <i class="fa fa-chevron-circle-right"></i>
+								</a>
+													</div>
+											</div>
+					<div class="f_title_bg"></div>-->
+
+				</div><!--/.featired_element-->
+		
+				
+		   
+   	 
+	 				
+				
+				<div class="featured_element">
+
+					<div class="featured_item">
+						<a href="https://blog.fitbit.com/new-ways-manage-stress-anxiety/" title="">
+							<img width="356" height="267" src="https://blog.fitbit.com/wp-content/uploads/2020/07/Manage-Stress_Blog-356x267.jpg" class="attachment-thr-fa-third size-thr-fa-third wp-post-image" alt="" decoding="async" loading="lazy" />						</a>
+					</div>
+					<div class="featured-item-headline">
+						<h2>
+							<a href="https://blog.fitbit.com/new-ways-manage-stress-anxiety/" title="">6 New Ways to Manage Stress and Anxiety							</a>
+						</h2>
+					</div><!--/.featured-item-headline-->
+
+
+					
+                <!--											<a href="https://blog.fitbit.com/new-ways-manage-stress-anxiety/" class="f_overlay"></a>
+										<div class="featured_title_over">
+						
+												<h2><a href="https://blog.fitbit.com/new-ways-manage-stress-anxiety/" title="">6 New Ways to Manage Stress and Anxiety</a></h2>
+												<div class="featured_excerpt">
+							<p>Consider new practices and see what helps you better manage stress and anxiety during these...</p>
+															<a href="https://blog.fitbit.com/new-ways-manage-stress-anxiety/" class="f_read_more">
+									Read More <i class="fa fa-chevron-circle-right"></i>
+								</a>
+													</div>
+											</div>
+					<div class="f_title_bg"></div>-->
+
+				</div><!--/.featired_element-->
+		
+					</div>
+				
+				
+		
+	</div>
+	
+
+</section>
+
+
+
+
+<section id="thr_main" class="content_wrapper">
+
+
+<div class="main_content_wrapper">
+	
+
+
+<div class="posts_wrapper layout_a">
+
+
+<article id="post-21599" class="post-21599 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition category-smart-shopping tag-budget tag-groceries tag-healthy-eating tag-healthy-lifestyle tag-smart-grocery-shopping tag-smart-shopping">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/nutrition/" title="Nutrition">Nutrition</a>				</span>
+				<span class="date">
+					January 18, 2023				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/combat-grocery-costs/">
+				Combat the Cost of Groceries with a Plan			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/combat-grocery-costs/" title="Combat the Cost of Groceries with a Plan">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2023/01/groceries.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2023/01/groceries.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2023/01/groceries-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>Discover ways to save on groceries without compromising your health.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/combat-grocery-costs/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+
+<article id="post-21589" class="post-21589 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition category-recipes tag-healthy-recipe tag-healthy-recipes tag-mental-strength tag-new-year-strong-you">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/nutrition/" title="Nutrition">Nutrition</a>				</span>
+				<span class="date">
+					January 11, 2023				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/recipes-for-mental-strength/">
+				New Year, Strong You: 3 Recipes for Mental Strength			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/recipes-for-mental-strength/" title="New Year, Strong You: 3 Recipes for Mental Strength">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2023/01/chickpea.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2023/01/chickpea.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2023/01/chickpea-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>As you set about keeping your goals for the new year, consider how you fuel your brain for the day. These recipes will help you do just that—by promoting brain health, mental strength, and longevity.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/recipes-for-mental-strength/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+
+<article id="post-21567" class="post-21567 post type-post status-publish format-standard has-post-thumbnail hentry category-fitbit-news tag-4243 tag-2022-year-in-review tag-4239 tag-fitbit tag-fitbit-news tag-fitbit-stats tag-fitbit-year-in-review tag-new-year tag-year-in-review">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/fitbit-news/" title="Fitbit News">Fitbit News</a>				</span>
+				<span class="date">
+					January 5, 2023				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/2022-year-in-review/">
+				Fitbit’s Year in Review: Which Countries Took Their Health and Fitness to the Next Level in 2022?			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/2022-year-in-review/" title="Fitbit’s Year in Review: Which Countries Took Their Health and Fitness to the Next Level in 2022?">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2023/01/year-in-review-head-image.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2023/01/year-in-review-head-image.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2023/01/year-in-review-head-image-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>We look back at which countries crushed 2022 with their impressive Fitbit stats.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/2022-year-in-review/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+
+<article id="post-21556" class="post-21556 post type-post status-publish format-standard has-post-thumbnail hentry category-stress tag-dry-january tag-healthy-habits tag-healthy-lifestyle tag-mindful-drinking tag-mindful-eating tag-mindfulness tag-sober-curious">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/stress/" title="Stress">Stress</a>				</span>
+				<span class="date">
+					January 4, 2023				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/sober-curious-movement/">
+				What is the Sober Curious Movement—and Why Is It So Popular?			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/sober-curious-movement/" title="What is the Sober Curious Movement—and Why Is It So Popular?">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2022/12/sober-curious.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2022/12/sober-curious.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2022/12/sober-curious-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>What is “sober curious”, and why is it having such a moment? Find out now.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/sober-curious-movement/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+
+<article id="post-21563" class="post-21563 post type-post status-publish format-standard has-post-thumbnail hentry category-goal-setting category-stress tag-4239 tag-crafts tag-fitness-and-wellness tag-goal-setting tag-goals tag-mood-board tag-new-year tag-new-years-resolutions-2 tag-resolutions">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/stress/" title="Stress">Stress</a>				</span>
+				<span class="date">
+					December 29, 2022				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/mood-board/">
+				Try a Mood Board for Your Fitness and Wellness Resolutions This Year			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/mood-board/" title="Try a Mood Board for Your Fitness and Wellness Resolutions This Year">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2022/12/moodboard.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2022/12/moodboard.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2022/12/moodboard-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>What, exactly, is a mood board, how do they work, and how can you use mood boards to become the happiest, healthiest version of yourself in 2023 (and beyond)? Find out here.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/mood-board/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+
+<article id="post-21560" class="post-21560 post type-post status-publish format-standard has-post-thumbnail hentry category-activity tag-activity tag-ballet tag-ballet-class tag-ballet-workout tag-barre tag-exercise tag-strength tag-workout">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/activity/" title="Activity">Activity</a>				</span>
+				<span class="date">
+					December 26, 2022				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/ballet-workout/">
+				Should You Try a Ballet-Style Workout?			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/ballet-workout/" title="Should You Try a Ballet-Style Workout?">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2022/12/ballet-1.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2022/12/ballet-1.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2022/12/ballet-1-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>If the last time you took a ballet class was in grade school, it may be time to put on your leotard.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/ballet-workout/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+
+<article id="post-21553" class="post-21553 post type-post status-publish format-standard has-post-thumbnail hentry category-nutrition category-recipes tag-healthy-recipe tag-healthy-recipes tag-holiday-recipe tag-holiday-season tag-hot-pot tag-specialty-recipe">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/nutrition/" title="Nutrition">Nutrition</a>				</span>
+				<span class="date">
+					December 23, 2022				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/holiday-hot-pot/">
+				Healthy Recipe: Holiday Hot Pot			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/holiday-hot-pot/" title="Healthy Recipe: Holiday Hot Pot">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2022/12/hot-pot.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2022/12/hot-pot.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2022/12/hot-pot-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>This healthy take on the traditional Asian specialty hot pot will bring big flavor to the holiday table.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/holiday-hot-pot/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+
+<article id="post-21548" class="post-21548 post type-post status-publish format-standard has-post-thumbnail hentry category-stress tag-holiday-season tag-mindfulness tag-stress-relief">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/stress/" title="Stress">Stress</a>				</span>
+				<span class="date">
+					December 21, 2022				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/brighten-winter-with-hygge/">
+				Here&#8217;s How You Can Brighten Winter with the Danish Practice of Hygge			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/brighten-winter-with-hygge/" title="Here&#8217;s How You Can Brighten Winter with the Danish Practice of Hygge">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2022/12/hygge.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2022/12/hygge.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2022/12/hygge-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>Discover the Danish practice of hygge—and how to use it to get through winter on a positive note.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/brighten-winter-with-hygge/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+
+<article id="post-21550" class="post-21550 post type-post status-publish format-standard has-post-thumbnail hentry category-fitbit-news category-sleep tag-fitbit tag-fitbit-blog tag-fitbit-slee tag-fitbit-sleep-profile tag-google tag-keyword tag-sleep tag-sleep-animals tag-sleep-profile tag-sleep-tools">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/fitbit-news/" title="Fitbit News">Fitbit News</a>,  <a href="https://blog.fitbit.com/category/sleep/" title="Sleep">Sleep</a>				</span>
+				<span class="date">
+					December 20, 2022				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/googler-zahra-barnes-sleep-profile-experience/">
+				Googler Zahra Barnes Tried Fitbit Premium’s Sleep Profile for Two Months			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/googler-zahra-barnes-sleep-profile-experience/" title="Googler Zahra Barnes Tried Fitbit Premium’s Sleep Profile for Two Months">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2022/12/sleep-1.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2022/12/sleep-1.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2022/12/sleep-1-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>Discover seven things Zahra learned from her experience—and how it impacted her sleep habits.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/googler-zahra-barnes-sleep-profile-experience/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+
+<article id="post-21541" class="post-21541 post type-post status-publish format-standard has-post-thumbnail hentry category-fitbit-news tag-fitbit-research tag-fitbit-research-findings tag-resting-heart-rate tag-rhr tag-sleep tag-sleep-health tag-stress tag-stress-management-score">
+	<div class="entry-header">
+					<div class="entry-meta">
+				<span class="category">
+					 <a href="https://blog.fitbit.com/category/fitbit-news/" title="Fitbit News">Fitbit News</a>				</span>
+				<span class="date">
+					December 19, 2022				</span>
+			</div>
+				<h1 class="entry-title">
+			<a href="https://blog.fitbit.com/fitbit-research-physical-activity-findings/">
+				Fitbit Research Findings Show that Users Who Meet Physical Activity Recommendations Are Able to Improve Their Resting Heart Rate, Sleep, and More			</a>
+		</h1>
+	</div><!--/.entry-header-->
+
+
+
+
+		<div class="entry-image featured_image">
+		<a href="https://blog.fitbit.com/fitbit-research-physical-activity-findings/" title="Fitbit Research Findings Show that Users Who Meet Physical Activity Recommendations Are Able to Improve Their Resting Heart Rate, Sleep, and More">
+		<img width="730" height="485" src="https://blog.fitbit.com/wp-content/uploads/2022/12/Blog.jpg" class="attachment-thr-layout-a size-thr-layout-a wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2022/12/Blog.jpg 730w, https://blog.fitbit.com/wp-content/uploads/2022/12/Blog-300x199.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" />		<span class="featured_item_overlay"></span>
+				</a>
+	</div>
+	
+
+  
+	<div class="entry-content">
+						<p>Fitbit research findings show that users who met their Active Zone Minutes and step recommendations were able to lower their resting heart rate and improve their sleep and Stress Management Scores. Find out how.</p>				
+	</div>
+	
+
+	<div class="entry-footer">
+
+									<div class="meta-item">
+					<a href="https://blog.fitbit.com/fitbit-research-physical-activity-findings/" class="read-more btn--arrow-right">
+					<!-- <i class="icon-arrow-right"></i> -->
+					Read More</a>
+				</div>
+					
+				<div class="meta-item meta-item-share">
+			<div class="meta-item-wrapper">
+				
+			</div>
+		</div>
+				
+	</div>
+
+<div class="clear"></div>	
+</article>
+
+</div>
+
+		
+<div class="clear"></div>
+<nav id="pagination" class="pagination-wapper">
+					<div id="thr_pagination"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://blog.fitbit.com/page/2/">2</a>
+<a class="page-numbers" href="https://blog.fitbit.com/page/3/">3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://blog.fitbit.com/page/212/">212</a>
+<a class="next page-numbers" href="https://blog.fitbit.com/page/2/">Next</a></div>		</nav>
+
+	
+
+</div>
+
+<aside id="sidebar" class="sidebar right">
+	<div id="search-2" class="widget widget_search"><h4 class="widget-title"><span>Search</span></h4><form class="search_form" action="https://blog.fitbit.com/" method="get">
+	<input name="s" class="search_input" size="20" type="text" value="Type here to search..." onfocus="(this.value == 'Type here to search...') && (this.value = '')" onblur="(this.value == '') && (this.value = 'Type here to search...')" placeholder="Type here to search..." />
+	<i class="icon-magnifier"></i>
+</form></div><div id="text-273896943" class="widget widget_text"><h4 class="widget-title"><span>Success Stories</span></h4>			<div class="textwidget"><p>Share your success story with Fitbit. </p>
+
+<p><a href="http://help.fitbit.com/?cu=1&form=stories" class="btn btn--border">Share</a></p></div>
+		</div>
+<!-- Start Posts in Sidebar - pis_posts_in_sidebar-2 -->
+<div id="pis_posts_in_sidebar-2" class="widget posts-in-sidebar"><h4 class="widget-title"><span>Popular Articles</span></h4>
+		<ul id="ul_pis_posts_in_sidebar-2" class="pis-ul">
+<li class="pis-li pis-post-20205">
+<p class="pis-thumbnail"><a class="pis-thumbnail-link" href="https://blog.fitbit.com/bedtime-snacks/" rel="bookmark"><img width="150" height="150" src="https://blog.fitbit.com/wp-content/uploads/2021/03/almonds-150x150.jpg" class="pis-thumbnail-img alignleft wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2021/03/almonds-150x150.jpg 150w, https://blog.fitbit.com/wp-content/uploads/2021/03/almonds-267x267.jpg 267w, https://blog.fitbit.com/wp-content/uploads/2021/03/almonds-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p class="pis-title"><a class="pis-title-link" href="https://blog.fitbit.com/bedtime-snacks/" rel="bookmark">Bedtime Snacks That Can Help You Get a Better Night’s Sleep</a></p>
+
+</li>
+<li class="pis-li pis-post-20236">
+<p class="pis-thumbnail"><a class="pis-thumbnail-link" href="https://blog.fitbit.com/prioritize-sleep-now/" rel="bookmark"><img width="150" height="150" src="https://blog.fitbit.com/wp-content/uploads/2021/03/covid-vaccine-sleep-150x150.jpg" class="pis-thumbnail-img alignleft wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2021/03/covid-vaccine-sleep-150x150.jpg 150w, https://blog.fitbit.com/wp-content/uploads/2021/03/covid-vaccine-sleep-267x267.jpg 267w, https://blog.fitbit.com/wp-content/uploads/2021/03/covid-vaccine-sleep-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p class="pis-title"><a class="pis-title-link" href="https://blog.fitbit.com/prioritize-sleep-now/" rel="bookmark">Plan on Getting the COVID-19 Vaccine? It&#8217;s Crucial to Rest Up—Here&#8217;s Why</a></p>
+
+</li>
+<li class="pis-li pis-post-20352">
+<p class="pis-thumbnail"><a class="pis-thumbnail-link" href="https://blog.fitbit.com/transform-walk-fat-burning-workout/" rel="bookmark"><img width="150" height="150" src="https://blog.fitbit.com/wp-content/uploads/2021/04/workout-150x150.jpg" class="pis-thumbnail-img alignleft wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.fitbit.com/wp-content/uploads/2021/04/workout-150x150.jpg 150w, https://blog.fitbit.com/wp-content/uploads/2021/04/workout-267x267.jpg 267w, https://blog.fitbit.com/wp-content/uploads/2021/04/workout-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p class="pis-title"><a class="pis-title-link" href="https://blog.fitbit.com/transform-walk-fat-burning-workout/" rel="bookmark">Transform Your Walk into a Fat-Burning Workout</a></p>
+
+</li>
+</ul>
+<!-- Generated by Posts in Sidebar v4.12.1 -->
+</div>
+<!-- End Posts in Sidebar - pis_posts_in_sidebar-2 -->
+
+</aside>	
+</section>
+
+
+
+</main>
+<div class="clear"></div>
+<!-- <footer id="footer" class="footer_wrapper full_width">
+
+		<div class="content_wrapper">
+			</div>
+	
+		<div id="copy_area" class="copy_area full_width">
+
+		<div class="content_wrapper">
+			<div class="left">
+				Copyright © 2015 Fitbit			</div>
+
+					</div>
+	</div>
+	</footer> -->
+
+
+
+
+
+<footer class="wrapper-footer" id="wrapper-footer">
+
+        <div class="wrapper-footer-inner">
+            
+            <div class="ftr-links">
+                <ul>
+                    <li><a href="https://blog.google/products/fitbit/">Press Relations</a></li>
+                    <li><a href="https://www.fitbit.com/retailers">Retailers</a></li>
+                    <li><a href="https://www.fitbit.com/fitbit-wellness">Corporate Wellness</a></li>
+                    <li><a href="https://dev.fitbit.com/">API</a></li>
+                    <li><a href="http://help.fitbit.com">Help</a></li>
+                </ul>
+            </div>
+            <div class="ftr-locale-holder">
+                <div class="ftr-locale">
+
+                   <span class="globe-icon"></span>
+
+                                    United States
+                                    (<a href="https://www.fitbit.com/countries">change</a>)
+
+                </div>
+            </div>
+            <div class="ftr-bottom">
+              <ul>
+                <li class="copyright">&#xA9;2023 Fitbit, Inc. All rights reserved.</li>
+                <li><a href="https://www.fitbit.com/legal">Legal Terms</a></li>
+                <li><a href="https://www.fitbit.com/legal/privacy">Privacy Policy</a></li>
+                <li><a href="https://www.fitbit.com/returns">Returns &amp; Warranty</a></li>
+                <li><a href="https://www.fitbit.com/productcare">Wear and Care</a></li>
+                <li><a href="https://www.fitbit.com/forcesupport/info">Recall &amp; Safety Info</a></li>
+                <li><a href="https://www.fitbit.com/legal/cookie-policy">Cookies</a> &amp; <a href="https://www.fitbit.com/legal/cookie-policy#your-choices">Ad Choices</a></li>
+              </ul>
+            </div>
+        </div>
+    </footer>
+
+<script type='text/javascript' src='https://blog.fitbit.com/wp-content/themes/throne/js/jquery.matchHeight.js?ver=1.4.1' id='thr_match_height-js'></script>
+<script type='text/javascript' src='https://blog.fitbit.com/wp-content/themes/throne/js/jquery.sidr.js?ver=1.4.1' id='thr_responsive_menu-js'></script>
+<script type='text/javascript' src='https://blog.fitbit.com/wp-content/themes/throne/js/jquery.fitvids.js?ver=1.4.1' id='thr_fitjs-js'></script>
+<script type='text/javascript' src='https://blog.fitbit.com/wp-content/themes/throne/js/imagesloaded.pkgd.min.js?ver=1.4.1' id='thr_images_loaded-js'></script>
+<script type='text/javascript' src='https://blog.fitbit.com/wp-content/themes/throne/js/affix.js?ver=1.4.1' id='thr_sticky-js'></script>
+<script type='text/javascript' id='thr_custom-js-extra'>
+/* <![CDATA[ */
+var thr_js_settings = {"use_lightbox":"","use_lightbox_content":"","sticky_header":"","sticky_header_offset":"400","logo_retina":"","sticky_header_logo":"","sticky_header_logo_retina":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.fitbit.com/wp-content/themes/throne/js/custom.js?ver=1.4.1' id='thr_custom-js'></script>
+<script type='text/javascript' src='https://blog.fitbit.com/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+                                    
+</body>
+</html>
